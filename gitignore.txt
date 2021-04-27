@@ -367,3 +367,6 @@ FodyWeavers.xsd
 
 # Windows
 *Thumbs.db
+
+#Angular
+package-lock
